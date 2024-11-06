@@ -20,8 +20,8 @@ Hello! I'm a second-year **Software Engineering** student at **Burapha Universit
 
 ## 📊 GitHub Stats:
 
-<a href="http://www.github.com/PKTonnam"><img src="https://github-readme-stats.vercel.app/api?username=PKTonnam&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=14b8a6&icon_color=f97316&bg_color=1c1917&hide_border=true&show_icons=true" alt="PKTonnam's GitHub stats" /></a>
+<a href="http://www.github.com/VoodooVortex"><img src="https://github-readme-stats.vercel.app/api?username=VoodooVortex&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=14b8a6&icon_color=f97316&bg_color=1c1917&hide_border=true&show_icons=true" alt="VoodooVortex's GitHub stats" /></a>
 
-<a href="http://www.github.com/PKTonnam"><img src="https://github-readme-streak-stats.herokuapp.com/?user=PKTonnam&stroke=14b8a6&background=1c1917&ring=ef4444&fire=ef4444&currStreakNum=14b8a6&currStreakLabel=ef4444&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true" /></a>
+<a href="http://www.github.com/VoodooVortex"><img src="https://github-readme-streak-stats.herokuapp.com/?user=VoodooVortex&stroke=14b8a6&background=1c1917&ring=ef4444&fire=ef4444&currStreakNum=14b8a6&currStreakLabel=ef4444&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true" /></a>
 
-<a href="https://github.com/PKTonnam" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PKTonnam&langs_count=10&title_color=ef4444&text_color=14b8a6&icon_color=f97316&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/VoodooVortex" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VoodooVortex&langs_count=10&title_color=ef4444&text_color=14b8a6&icon_color=f97316&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
