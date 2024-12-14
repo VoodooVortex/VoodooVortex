@@ -1,24 +1,47 @@
-# 🌟 About Me
+## 🛠️ My Journey
 
-Hello! I'm a second-year **Software Engineering** student at **Burapha University**, SE#13.
-* 🌍  I'm based in Ang Sila, Chonburi, Thailand
-* ✉️  You can contact me at [Pakkapon2547@gmail.com](mailto:Pakkapon2547@gmail.com)
-* 🎓 Faculty of Informatics, BUU
-* 🧠  I'm currently learning Blockchain developer, Web3
+Hello! I'm a second-year **Software Engineering** student at **Burapha University**, SE#13.  
+* 🌍  Based in Ang Sila, Chonburi, Thailand  
+* ✉️  Contact me at [Pakkapon2547@gmail.com](mailto:Pakkapon2547@gmail.com)  
+* 🎓  Faculty of Informatics, BUU  
+* 🧠  Currently interested in **Blockchain Development** and **Web3 Development**  
 
 ---
 
-### 💻 Tech Stack:
+### 💼 Work Experience:
 
+#### Frontend Developer Intern  
+**10 BIT DEVELOPMENT CO., LTD.**  
+*May 5, 2024 - June 25, 2024*  
 
-[![My Skills](https://skillicons.dev/icons?i=solidity,java,cs,ts,js,html,css,bootstrap,tailwind,vite,react,vue,github,git,npm)](https://skillicons.dev)
-<br>
+- 📝 Designed and developed digital forms for nurses, replacing traditional paper forms with a paperless system.  
+- 🎨 Created visually appealing and user-friendly forms using **Vue.js** and **Bootstrap**, closely matching original templates to enhance user experience.  
+- 💻 Implemented functionality using **HTML**, **JavaScript**, and **CSS**, ensuring interactivity and usability.  
+
+---
+
+## 💻 Tech Stack:
+
+### 🌱 Basic Experience With:
+[![My Skills](https://skillicons.dev/icons?i=ts,solidity)](https://skillicons.dev)
 <a href="https://web3js.readthedocs.io/en/v1.7.1/#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/web3js-colored.svg" width="36" height="36" alt="Web3Js" /></a>
-  <a href="https://ethers.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethers-colored.svg" width="36" height="36" alt="Ethers" /></a>
-  <a href="https://hardhat.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/hardhat-colored.svg" width="36" height="36" alt="Hardhat" /></a>
-  <a href="https://solana.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/solana-colored.svg" width="36" height="36" alt="Solana" /></a>
+<a href="https://hardhat.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/hardhat-colored.svg" width="36" height="36" alt="Hardhat" /></a>
+
+### 👀 Familiar With:
+[![My Skills](https://skillicons.dev/icons?i=cs)](https://skillicons.dev)
+
+### ⚙️ Experienced With:
+[![My Skills](https://skillicons.dev/icons?i=tailwind,vite,react,vue)](https://skillicons.dev)
+
+### 🔧 Frequently Used:
+[![My Skills](https://skillicons.dev/icons?i=java,js,html,css,bootstrap,github,git)](https://skillicons.dev)
+<br>
+<a href="https://solana.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/solana-colored.svg" width="36" height="36" alt="Solana" /></a>
   <a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a>
   <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>
+  
+### 📖 Currently Learning:
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,mysql,nodejs,express,rust)](https://skillicons.dev)
 
 ---
 
