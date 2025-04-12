@@ -8,6 +8,11 @@ Hello! I'm a second-year **Software Engineering** student at **Burapha Universit
 
 ---
 
+### 🏆 Awards & Achievements
+- 🥇 **มหาเทพ Full Stack Award** – OSSD#13 Bootcamp
+- 🎨 **Best UX/UI Design Award** – Cluster: 4
+---
+
 ### 💼 Work Experience:
 
 #### Frontend Developer Intern  
@@ -17,6 +22,31 @@ Hello! I'm a second-year **Software Engineering** student at **Burapha Universit
 - 📝 Designed and developed digital forms for nurses, replacing traditional paper forms with a paperless system.  
 - 🎨 Created visually appealing and user-friendly forms using **Vue.js** and **Bootstrap**, closely matching original templates to enhance user experience.  
 - 💻 Implemented functionality using **HTML**, **JavaScript**, and **CSS**, ensuring interactivity and usability.  
+
+---
+
+#### 🔥 Project Highlight 2025: Site Selection Analysis System (OSSD#13)  
+(*a.k.a. Branch Location Intelligence System*)
+
+
+This project was developed as part of **Cluster 4** in collaboration with the company **MyOrder Interlligence, LTD.** during the **OSSD#13 Bootcamp**.
+
+*Feb 16, 2025 - April 12, 2025*  
+We built a full-featured web application to analyze and manage branch locations:
+
+- 📋 Gathered and analyzed requirements from real stakeholders  
+- 🧾 Created technical documents and diagrams (Use Case, ER, Sequence, etc.)  
+- 🧠 Designed system architecture and relational database schema
+- 👨‍💻 Implemented a full-stack web app using **Laravel**, 
+- 🗺️ Built using **Mapbox GL JS** to manage branch markers — add, edit, and delete branches on an interactive map
+- 🌍 Imported categorized **GeoJSON** location data and stored it in a **SQL relational database**
+- 📍 Modal bottom sheet for viewing branch details (like Google Maps)
+- 📊 Sales analytics dashboard with median line graphs and filters
+- 📋 Report page to efficiently manage large-scale branch data
+- 🎨 UI designed with a consistent color system and design standards
+
+**Tech Stack**:  
+`Laravel` · `Livewire` · `Mapbox GL JS` · `Tailwind CSS` · `Docker`
 
 ---
 
@@ -31,17 +61,24 @@ Hello! I'm a second-year **Software Engineering** student at **Burapha Universit
 [![My Skills](https://skillicons.dev/icons?i=cs)](https://skillicons.dev)
 
 ### ⚙️ Experienced With:
-[![My Skills](https://skillicons.dev/icons?i=tailwind,vite,react,vue)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vite,react,vue)](https://skillicons.dev)
 
 ### 🔧 Frequently Used:
-[![My Skills](https://skillicons.dev/icons?i=java,js,html,css,bootstrap,github,git)](https://skillicons.dev)
-<br>
-<a href="https://solana.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/solana-colored.svg" width="36" height="36" alt="Solana" /></a>
-  <a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a>
-  <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>
+#### Fontend
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,tailwind)](https://skillicons.dev)
+#### Backend
+[![My Skills](https://skillicons.dev/icons?i=java,php,laravel)](https://skillicons.dev)
+#### Full Stack
+[![My Skills](https://skillicons.dev/icons?i=laravel)](https://skillicons.dev)
+#### Database
+[![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+#### DevOps
+[![My Skills](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
+#### Version Control
+[![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
   
 ### 📖 Currently Learning:
-[![My Skills](https://skillicons.dev/icons?i=php,laravel,mysql,nodejs,express,rust)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,rust,nextjs)](https://skillicons.dev)
 
 ---
 
