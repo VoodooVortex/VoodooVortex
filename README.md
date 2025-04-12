@@ -65,7 +65,7 @@ We built a full-featured web application to analyze and manage branch locations:
 
 ### 🔧 Frequently Used:
 #### Fontend
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,jquery,html,css,bootstrap,tailwind)](https://skillicons.dev)
 #### Backend
 [![My Skills](https://skillicons.dev/icons?i=java,php,laravel)](https://skillicons.dev)
 #### Full Stack
