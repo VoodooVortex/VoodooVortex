@@ -9,7 +9,7 @@ Hello! I'm a second-year **Software Engineering** student at **Burapha Universit
 ---
 
 ### 🏆 Awards & Achievements
-- 🥇 **มหาเทพ Full Stack Award** – OSSD#13 Bootcamp
+- 🥇 **มหาเทพ Full Stack Award** – OSSD#13 Bootcamp (Open Source Software Developers #13 Bootcamp)
 - 🎨 **Best UX/UI Design Award** – Cluster: 4
 ---
 
@@ -76,6 +76,8 @@ We built a full-featured web application to analyze and manage branch locations:
 [![My Skills](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
 #### Version Control
 [![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
+#### Design Tools
+[![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
   
 ### 📖 Currently Learning:
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,rust,nextjs)](https://skillicons.dev)
