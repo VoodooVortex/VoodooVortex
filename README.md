@@ -67,8 +67,8 @@ We built a full-featured web application to analyze and manage branch locations:
 #### Fontend
 [![My Skills](https://skillicons.dev/icons?i=js,jquery,html,css,bootstrap,tailwind)](https://skillicons.dev)
 #### Backend
-[![My Skills](https://skillicons.dev/icons?i=java,php,laravel)](https://skillicons.dev)
-#### Full Stack
+[![My Skills](https://skillicons.dev/icons?i=java,php)](https://skillicons.dev)
+#### Full Stack Framework
 [![My Skills](https://skillicons.dev/icons?i=laravel)](https://skillicons.dev)
 #### Database
 [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
