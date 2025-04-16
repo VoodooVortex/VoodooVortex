@@ -80,7 +80,7 @@ We built a full-featured web application to analyze and manage branch locations:
 [![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
   
 ### 📖 Currently Learning:
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,rust,nextjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,express,react,nodejs,rust,nextjs)](https://skillicons.dev)
 
 ---
 
