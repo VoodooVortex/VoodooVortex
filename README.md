@@ -94,13 +94,23 @@ We built a full-featured web application to analyze and manage branch locations:
 
 ### 📊 GitHub Stats:
 
-<div align="left">
+<div align="center">
+  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=VoodooVortex&show_icons=true&theme=transparent" alt="VoodooVortex's GitHub stats" />
   <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs?username=VoodooVortex&show_icons=true&locale=en&layout=compact" alt="VoodooVortex's top languages" />
   <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=VoodooVortex" alt="VoodooVortex's streak stats" />
 </div>
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=VoodooVortex" alt="GitHub Trophies for VoodooVortex" />
   </a>
 </p>
+
+<div align="center">
+  <a href="https://github.com/SassyxD/blockshop-ethglobal-bkk">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SassyxD&repo=blockshop-ethglobal-bkk" />
+  </a>
+  <a href="https://github.com/OSSD13/cluster4">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OSSD13&repo=cluster4" />
+  </a>
+</div>
