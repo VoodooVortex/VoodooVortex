@@ -102,15 +102,15 @@ We built a full-featured web application to analyze and manage branch locations:
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=VoodooVortex" alt="GitHub Trophies for VoodooVortex" />
+    <img height="150px" src="https://github-profile-trophy.vercel.app/?username=VoodooVortex" alt="GitHub Trophies for VoodooVortex" />
   </a>
 </p>
 
 <div align="center">
   <a href="https://github.com/SassyxD/blockshop-ethglobal-bkk">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SassyxD&repo=blockshop-ethglobal-bkk" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SassyxD&repo=blockshop-ethglobal-bkk" />
   </a>
   <a href="https://github.com/OSSD13/cluster4">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OSSD13&repo=cluster4" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=OSSD13&repo=cluster4" />
   </a>
 </div>
