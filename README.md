@@ -96,7 +96,7 @@ We built a full-featured web application to analyze and manage branch locations:
 
 <div align="center">
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=VoodooVortex&show_icons=true&theme=transparent" alt="VoodooVortex's GitHub stats" />
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=VoodooVortex&show_icons=true&locale=en&layout=compact" alt="VoodooVortex's top languages" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=VoodooVortex&show_icons=true&locale=en&layout=compact&count_private=true" alt="VoodooVortex's top languages" />
   <img height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=VoodooVortex" alt="VoodooVortex's streak stats" />
 </div>
 
