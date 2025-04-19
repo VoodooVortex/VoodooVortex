@@ -52,13 +52,11 @@ We built a full-featured web application to analyze and manage branch locations:
 
 ## 💻 Tech Stack:
 
-### 🌱 Basic Experience With:
-[![My Skills](https://skillicons.dev/icons?i=ts,solidity)](https://skillicons.dev)
-<a href="https://web3js.readthedocs.io/en/v1.7.1/#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/web3js-colored.svg" width="36" height="36" alt="Web3Js" /></a>
-<a href="https://hardhat.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/hardhat-colored.svg" width="36" height="36" alt="Hardhat" /></a>
+### 🌱 Basic Programming And Algorithm With:
+[![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
 
-### 👀 Familiar With:
-[![My Skills](https://skillicons.dev/icons?i=cs)](https://skillicons.dev)
+### 👀 Basic Experienced With:
+[![My Skills](https://skillicons.dev/icons?i=cs,solidity,ts)](https://skillicons.dev)
 
 ### ⚙️ Experienced With:
 [![My Skills](https://skillicons.dev/icons?i=vite,react,vue)](https://skillicons.dev)
@@ -67,7 +65,7 @@ We built a full-featured web application to analyze and manage branch locations:
 #### Fontend
 [![My Skills](https://skillicons.dev/icons?i=js,jquery,html,css,bootstrap,tailwind)](https://skillicons.dev)
 #### Backend
-[![My Skills](https://skillicons.dev/icons?i=java,php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php)](https://skillicons.dev)
 #### Full Stack Framework
 [![My Skills](https://skillicons.dev/icons?i=laravel)](https://skillicons.dev)
 #### Database
