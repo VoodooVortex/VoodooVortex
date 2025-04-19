@@ -1,6 +1,6 @@
 ## 🛠️ My Journey
 
-Hello! I'm a second-year **Software Engineering** student at **Burapha University**, SE#13.  
+Hello! I'm **Pakkapon Chomchoey**, a second-year **Software Engineering** student at **Burapha University**, SE#13.  
 * 🌍  Based in Ang Sila, Chonburi, Thailand  
 * ✉️  Contact me at [Pakkapon2547@gmail.com](mailto:Pakkapon2547@gmail.com)  
 * 🎓  Faculty of Informatics, BUU  
