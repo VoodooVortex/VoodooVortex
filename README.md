@@ -21,36 +21,30 @@ Hello! I'm a second-year **Software Engineering** student at **Burapha Universit
 
 - 📝 Designed and developed digital forms for nurses, replacing traditional paper forms with a paperless system.  
 - 🎨 Created visually appealing and user-friendly forms using **Vue.js** and **Bootstrap**, closely matching original templates to enhance user experience.  
-- 💻 Implemented functionality using **HTML**, **JavaScript**, and **CSS**, ensuring interactivity and usability.  
+- 💻 Implemented functionality using **HTML**, **JavaScript**, and **CSS**, ensuring interactivity and usability.
+  
+**Tech Stack**: `HTML` · `CSS` · `JavaScript` · `Bootstrap CSS` · `Vue.js`
 
 ---
 
-#### 🔥 Project Highlight 2025: Site Selection Analysis System (OSSD#13)  
-(*a.k.a. Branch Location Intelligence System*)
+#### 🔥 Project Highlight 2025: Site Selection Analysis System (OSSD#13)
+Developed by **Cluster 4** with **MyOrder Intelligence, LTD.** during the **OSSD#13 Bootcamp**  
+*Feb 16, 2025 - Apr 12, 2025* 
 
+A web app for analyzing and managing branch locations using interactive maps and data dashboards.
 
-This project was developed as part of **Cluster 4** in collaboration with the company **MyOrder Interlligence, LTD.** during the **OSSD#13 Bootcamp**.
+- Interactive Mapbox-based branch markers (add/edit/delete)
+- Imported categorized GeoJSON data into SQL database
+- Modal bottom sheet inspired by Google Maps UI
+- Clean, consistent UI design with color and button standards
+- Sales dashboard with filters, median line charts, and branch order tracking
 
-*Feb 16, 2025 - April 12, 2025*  
-We built a full-featured web application to analyze and manage branch locations:
-
-- 📋 Gathered and analyzed requirements from real stakeholders  
-- 🧾 Created technical documents and diagrams (Use Case, ER, Sequence, etc.)  
-- 🧠 Designed system architecture and relational database schema
-- 👨‍💻 Implemented a full-stack web app using **Laravel**, 
-- 🗺️ Built using **Mapbox GL JS** to manage branch markers — add, edit, and delete branches on an interactive map
-- 🌍 Imported categorized **GeoJSON** location data and stored it in a **SQL relational database**
-- 📍 Modal bottom sheet for viewing branch details (like Google Maps)
-- 📊 Sales analytics dashboard with median line graphs and filters
-- 📋 Report page to efficiently manage large-scale branch data
-- 🎨 UI designed with a consistent color system and design standards
-
-**Tech Stack**:  
-`Laravel` · `Livewire` · `Mapbox GL JS` · `Tailwind CSS` · `Docker`
+**Tech Stack**: `Laravel` · `Livewire` · `Mapbox GL JS` · `Tailwind CSS` · `JQuery` · `Docker` 
 
 ---
 
 ## 💻 Tech Stack:
+A list of technologies I’ve worked with, categorized by experience level and frequency of use.
 
 ### 🌱 Basic Programming And Algorithm With:
 [![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
@@ -62,23 +56,30 @@ We built a full-featured web application to analyze and manage branch locations:
 [![My Skills](https://skillicons.dev/icons?i=vite,react,vue)](https://skillicons.dev)
 
 ### 🔧 Frequently Used:
-#### Fontend
+#### - Frontend
 [![My Skills](https://skillicons.dev/icons?i=js,jquery,html,css,bootstrap,tailwind)](https://skillicons.dev)
-#### Backend
+#### - Backend
 [![My Skills](https://skillicons.dev/icons?i=php)](https://skillicons.dev)
-#### Full Stack Framework
+#### - Full Stack Framework
 [![My Skills](https://skillicons.dev/icons?i=laravel)](https://skillicons.dev)
-#### Database
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=livewire)](https://laravel-livewire.com)
+#### - Database
 [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
-#### DevOps
+#### - DevOps
 [![My Skills](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
-#### Version Control
+#### - Version Control
 [![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
-#### Design Tools
+#### - Design Tools
 [![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
-  
+#### - Auth Tools
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=socialite)](https://laravel.com/docs/socialite)
+#### - Tools
+![Skills](https://skills-icons.vercel.app/api/icons?i=homebrew)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=insomnia,postman,gitkraken,wireshark,miro)
+
 ### 📖 Currently Learning:
 [![My Skills](https://skillicons.dev/icons?i=mongodb,express,react,nodejs,rust,nextjs)](https://skillicons.dev)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=zustand,daisyui,jwt,mongoose)
 
 ---
 
@@ -93,8 +94,8 @@ We built a full-featured web application to analyze and manage branch locations:
 ### 📊 GitHub Stats:
 
 <div align="center">
+  <img height="150px" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VoodooVortex&show_icons=true&locale=en&layout=compact&count_private=true" alt="VoodooVortex's top languages" />
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=VoodooVortex&show_icons=true&theme=transparent" alt="VoodooVortex's GitHub stats" />
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=VoodooVortex&show_icons=true&locale=en&layout=compact&count_private=true" alt="VoodooVortex's top languages" />
   <img height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=VoodooVortex" alt="VoodooVortex's streak stats" />
 </div>
 
@@ -106,9 +107,9 @@ We built a full-featured web application to analyze and manage branch locations:
 
 <div align="center">
   <a href="https://github.com/SassyxD/blockshop-ethglobal-bkk">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SassyxD&repo=blockshop-ethglobal-bkk" />
+    <img height="150px src="https://github-readme-stats.vercel.app/api/pin/?username=SassyxD&repo=blockshop-ethglobal-bkk" />
   </a>
-  <a href="https://github.com/OSSD13/cluster4">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=OSSD13&repo=cluster4" />
+  <a href="https://github.com/VoodooVortex/Cluster4">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VoodooVortex&repo=Cluster4" />
   </a>
 </div>
