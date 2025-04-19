@@ -43,7 +43,7 @@ A web app for analyzing and managing branch locations using interactive maps and
 
 ---
 
-## 💻 Tech Stack:
+### 💻 Tech Stack:
 A list of technologies I’ve worked with, categorized by experience level and frequency of use.
 
 ### 🌱 Basic Programming And Algorithm With:
