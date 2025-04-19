@@ -10,7 +10,7 @@ Hello! I'm **Pakkapon Chomchoey**, a second-year **Software Engineering** studen
 
 ### 🏆 Awards & Achievements
 - 🥇 **มหาเทพ Full Stack Award** – OSSD#13 Bootcamp (Open Source Software Developers #13 Bootcamp)
-- 🎨 **Best UX/UI Design Award** – Cluster: 4
+- 🎨 **Best UX/UI Design Award** – Cluster 4
 ---
 
 ### 💼 Work Experience
