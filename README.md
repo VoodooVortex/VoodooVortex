@@ -104,12 +104,3 @@ A list of technologies I’ve worked with, categorized by experience level and f
     <img height="150px" src="https://github-profile-trophy.vercel.app/?username=VoodooVortex" alt="GitHub Trophies for VoodooVortex" />
   </a>
 </p>
-
-<div align="center">
-  <a href="https://github.com/SassyxD/blockshop-ethglobal-bkk">
-    <img height="150px src="https://github-readme-stats.vercel.app/api/pin/?username=SassyxD&repo=blockshop-ethglobal-bkk" />
-  </a>
-  <a href="https://github.com/VoodooVortex/Cluster4">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VoodooVortex&repo=Cluster4" />
-  </a>
-</div>
