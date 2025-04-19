@@ -4,7 +4,7 @@ Hello! I'm a second-year **Software Engineering** student at **Burapha Universit
 * 🌍  Based in Ang Sila, Chonburi, Thailand  
 * ✉️  Contact me at [Pakkapon2547@gmail.com](mailto:Pakkapon2547@gmail.com)  
 * 🎓  Faculty of Informatics, BUU  
-* 🧠  Currently interested in **Blockchain Development** and **Web3 Development**  
+* 🧠  Currently interested in **Full Stack Development** 
 
 ---
 
