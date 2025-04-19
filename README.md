@@ -27,7 +27,9 @@ Hello! I'm **Pakkapon Chomchoey**, a second-year **Software Engineering** studen
 
 ---
 
-#### 🔥 Project Highlight 2025: Site Selection Analysis System (OSSD#13)
+### 🔥 Project Highlight
+
+#### Site Selection Analysis System (OSSD#13)
 Developed by **Cluster 4** with **MyOrder Intelligence, LTD.** during the **OSSD#13 Bootcamp**  
 *Feb 16, 2025 - Apr 12, 2025* 
 
