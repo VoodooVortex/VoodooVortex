@@ -33,11 +33,11 @@ Developed by **Cluster 4** with **MyOrder Intelligence, LTD.** during the **OSSD
 
 A web app for analyzing and managing branch locations using interactive maps and data dashboards.
 
-- Interactive Mapbox-based branch markers (add/edit/delete)
-- Imported categorized GeoJSON data into SQL database
-- Modal bottom sheet inspired by Google Maps UI
-- Clean, consistent UI design with color and button standards
-- Sales dashboard with filters, median line charts, and branch order tracking
+- 🗺️ Interactive Mapbox-based branch markers (add/edit/delete)
+- 🌍 Imported categorized GeoJSON data into SQL database
+- 📍 Modal bottom sheet inspired by Google Maps UI
+- 🎨 Clean, consistent UI design with color and button standards
+- 📊 Sales dashboard with filters, median line charts, and branch order tracking
 
 **Tech Stack**: `Laravel` · `Livewire` · `Mapbox GL JS` · `Tailwind CSS` · `JQuery` · `Docker` 
 
