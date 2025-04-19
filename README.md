@@ -13,7 +13,7 @@ Hello! I'm **Pakkapon Chomchoey**, a second-year **Software Engineering** studen
 - 🎨 **Best UX/UI Design Award** – Cluster: 4
 ---
 
-### 💼 Work Experience:
+### 💼 Work Experience
 
 #### Frontend Developer Intern  
 **10 BIT DEVELOPMENT CO., LTD.**  
@@ -45,7 +45,7 @@ A web app for analyzing and managing branch locations using interactive maps and
 
 ---
 
-### 💻 Tech Stack:
+### 💻 Tech Stack
 A list of technologies I’ve worked with, categorized by experience level and frequency of use.
 
 ### 🌱 Basic Programming And Algorithm With:
@@ -85,7 +85,7 @@ A list of technologies I’ve worked with, categorized by experience level and f
 
 ---
 
-### 🌐 Socials:
+### 🌐 Socials
 
 <p align="left"> <a href="https://discord.com/users/pk9113" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.facebook.com/pakkapon.forb" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/pk_tonnam" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a>
   <a href="https://www.linkedin.com/in/pakkapon-chomchoey-60377b332" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a>
@@ -93,7 +93,7 @@ A list of technologies I’ve worked with, categorized by experience level and f
 
 ---
 
-### 📊 GitHub Stats:
+### 📊 GitHub Stats
 
 <div align="center">
   <img height="150px" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VoodooVortex&show_icons=true&locale=en&layout=compact&count_private=true" alt="VoodooVortex's top languages" />
