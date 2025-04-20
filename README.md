@@ -82,6 +82,7 @@ A list of technologies I’ve worked with, categorized by experience level and f
 ### 📖 Currently Learning:
 [![My Skills](https://skillicons.dev/icons?i=mongodb,express,react,nodejs,rust,nextjs)](https://skillicons.dev)
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=zustand,daisyui,jwt,mongoose)
+![Skills](https://skills-icons.vercel.app/api/icons?i=axios)
 
 ---
 
