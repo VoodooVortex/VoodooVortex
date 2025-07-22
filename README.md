@@ -52,32 +52,34 @@ A list of technologies I’ve worked with, categorized by experience level and f
 [![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
 
 ### 👀 Basic Experienced With:
-[![My Skills](https://skillicons.dev/icons?i=cs,solidity,ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,solidity,py)](https://skillicons.dev)
 
 ### ⚙️ Experienced With:
-[![My Skills](https://skillicons.dev/icons?i=vite,react,vue)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vite,vue)](https://skillicons.dev)
 
 ### 🔧 Frequently Used:
 #### - Frontend
-[![My Skills](https://skillicons.dev/icons?i=js,jquery,html,css,bootstrap,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,js,jquery,html,css,bootstrap,tailwind)](https://skillicons.dev)
 #### - Backend
-[![My Skills](https://skillicons.dev/icons?i=php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,nodejs,express,nestjs,ts)](https://skillicons.dev)
 #### - Full Stack Framework
 [![My Skills](https://skillicons.dev/icons?i=laravel)](https://skillicons.dev)
 [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=livewire)](https://laravel-livewire.com)
-#### - Database
-[![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+#### - Database & Cache
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis)](https://skillicons.dev)
+#### - ORM & ODM
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=typeorm,prisma,mongoose)
 #### - DevOps
 [![My Skills](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
 #### - Version Control
 [![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
 #### - Design Tools
 [![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
-#### - Auth Tools
-[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=socialite)](https://laravel.com/docs/socialite)
 #### - Tools
-![Skills](https://skills-icons.vercel.app/api/icons?i=homebrew)
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=insomnia,postman,gitkraken,wireshark,miro)
+![Skills](https://skills-icons.vercel.app/api/icons?i=homebrew,nginx)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=insomnia,postman,swagger,gitkraken,wireshark,miro,tailscale)
+#### - OS
+![Skills](https://skills-icons.vercel.app/api/icons?i=linux,ubuntu)
 
 ---
 
