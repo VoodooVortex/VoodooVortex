@@ -1,6 +1,6 @@
 ## 🛠️ My Journey
 
-Hello! I'm **Pakkapon Chomchoey**, a second-year **Software Engineering** student at **Burapha University**, SE#13.  
+Hello! I'm **Pakkapon Chomchoey**, a third-year **Software Engineering** student at **Burapha University**, SE#13.  
 * 🌍  Based in Ang Sila, Chonburi, Thailand  
 * ✉️  Contact me at [Pakkapon2547@gmail.com](mailto:Pakkapon2547@gmail.com)  
 * 🎓  Faculty of Informatics, BUU  
@@ -46,40 +46,27 @@ A web app for analyzing and managing branch locations using interactive maps and
 ---
 
 ### 💻 Tech Stack
-A list of technologies I’ve worked with, categorized by experience level and frequency of use.
 
-### 🌱 Basic Programming And Algorithm With:
-[![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
+**Experience Levels**
+| Level | Technologies |
+| --- | --- |
+| **Basic Programming And Algorithm** | ![Basic](https://skills.syvixor.com/api/icons?i=java) |
+| **Basic Experience** | ![BasicExp](https://skills.syvixor.com/api/icons?i=csharp,solidity,python) |
+| **Experienced** | ![Exp](https://skills.syvixor.com/api/icons?i=vue) |
 
-### 👀 Basic Experienced With:
-[![My Skills](https://skillicons.dev/icons?i=cs,solidity,py)](https://skillicons.dev)
+<br/>
 
-### ⚙️ Experienced With:
-[![My Skills](https://skillicons.dev/icons?i=vite,vue)](https://skillicons.dev)
-
-### 🔧 Frequently Used:
-#### - Frontend
-[![My Skills](https://skillicons.dev/icons?i=react,js,jquery,html,css,bootstrap,tailwind)](https://skillicons.dev)
-#### - Backend
-[![My Skills](https://skillicons.dev/icons?i=php,nodejs,express,nestjs,ts)](https://skillicons.dev)
-#### - Full Stack Framework
-[![My Skills](https://skillicons.dev/icons?i=laravel)](https://skillicons.dev)
-[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=livewire)](https://laravel-livewire.com)
-#### - Database & Cache
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis)](https://skillicons.dev)
-#### - ORM & ODM
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=typeorm,prisma,mongoose)
-#### - DevOps
-[![My Skills](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
-#### - Version Control
-[![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
-#### - Design Tools
-[![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
-#### - Tools
-![Skills](https://skills-icons.vercel.app/api/icons?i=homebrew,nginx)
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=insomnia,postman,swagger,gitkraken,wireshark,miro,tailscale)
-#### - OS
-![Skills](https://skills-icons.vercel.app/api/icons?i=linux,ubuntu)
+**Frequently Used**
+| Category | Skills |
+| --- | --- |
+| **Frontend** | ![Front](https://skills.syvixor.com/api/icons?i=react,js,jquery,html,css,bootstrap,tailwind) |
+| **Backend** | ![Back](https://skills.syvixor.com/api/icons?i=php,nodejs,express,nestjs,ts,socketio,websocket,zod) |
+| **Full Stack** | ![FullStack](https://skills.syvixor.com/api/icons?i=laravel,livewire) |
+| **Database & Cache** | ![DB](https://skills.syvixor.com/api/icons?i=mysql,postgres,supabase,redis) |
+| **ORM** | ![ORM](https://skills.syvixor.com/api/icons?i=typeorm,prisma) |
+| **DevOps & OS** | ![DevOps](https://skills.syvixor.com/api/icons?i=docker,grafana,haproxy,linux,ubuntu) |
+| **Tools & Utilities** | ![Tools](https://skills.syvixor.com/api/icons?i=git,figma,homebrew,nginx,dbeaver,insomnia,postman,swagger) |
+| **Editors & Terminals** | ![Editors](https://skills.syvixor.com/api/icons?i=ghostty,warp,zed) |
 
 ---
 
@@ -93,14 +80,4 @@ A list of technologies I’ve worked with, categorized by experience level and f
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img height="150px" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VoodooVortex&show_icons=true&locale=en&layout=compact&count_private=true" alt="VoodooVortex's top languages" />
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=VoodooVortex&show_icons=true&theme=transparent" alt="VoodooVortex's GitHub stats" />
-  <img height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=VoodooVortex" alt="VoodooVortex's streak stats" />
-</div>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img height="150px" src="https://github-profile-trophy.vercel.app/?username=VoodooVortex" alt="GitHub Trophies for VoodooVortex" />
-  </a>
-</p>
+![](./profile-3d-contrib/profile-night-rainbow.svg)
