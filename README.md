@@ -62,7 +62,7 @@ A web app for analyzing and managing branch locations using interactive maps and
 | **Frontend** | ![Front](https://skills.syvixor.com/api/icons?i=react,js,jquery,html,css,bootstrap,tailwind) |
 | **Backend** | ![Back](https://skills.syvixor.com/api/icons?i=php,nodejs,express,nestjs,ts,socketio,websocket,zod) |
 | **Full Stack** | ![FullStack](https://skills.syvixor.com/api/icons?i=laravel,livewire) |
-| **Database & Cache** | ![DB](https://skills.syvixor.com/api/icons?i=mysql,postgres,supabase,redis) |
+| **Database & Cache** | ![DB](https://skills.syvixor.com/api/icons?i=mysql,postgresql,supabase,redis) |
 | **ORM** | ![ORM](https://skills.syvixor.com/api/icons?i=typeorm,prisma) |
 | **DevOps & OS** | ![DevOps](https://skills.syvixor.com/api/icons?i=docker,grafana,haproxy,linux,ubuntu) |
 | **Tools & Utilities** | ![Tools](https://skills.syvixor.com/api/icons?i=git,figma,homebrew,nginx,dbeaver,insomnia,postman,swagger) |
