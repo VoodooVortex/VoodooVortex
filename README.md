@@ -58,15 +58,12 @@ A web app for analyzing and managing branch locations using interactive maps and
 
 **Frequently Used**
 | Category | Skills |
-| --- | --- |
-| **Frontend** | ![Front](https://skills.syvixor.com/api/icons?i=react,js,jquery,html,css,bootstrap,tailwind) |
-| **Backend** | ![Back](https://skills.syvixor.com/api/icons?i=php,nodejs,express,nestjs,ts,socketio,websocket,zod) |
-| **Full Stack** | ![FullStack](https://skills.syvixor.com/api/icons?i=laravel,livewire) |
-| **Database & Cache** | ![DB](https://skills.syvixor.com/api/icons?i=mysql,postgresql,supabase,redis) |
-| **ORM** | ![ORM](https://skills.syvixor.com/api/icons?i=typeorm,prisma) |
-| **DevOps & OS** | ![DevOps](https://skills.syvixor.com/api/icons?i=docker,grafana,haproxy,linux,ubuntu) |
-| **Tools & Utilities** | ![Tools](https://skills.syvixor.com/api/icons?i=git,figma,homebrew,nginx,dbeaver,insomnia,postman,swagger) |
-| **Editors & Terminals** | ![Editors](https://skills.syvixor.com/api/icons?i=ghostty,warp,zed) |
+| :--- | :--- |
+| **Languages** | ![Languages](https://skills.syvixor.com/api/icons?i=ts,js,java,php,cs,bash) |
+| **Backend & API** | ![Backend](https://skills.syvixor.com/api/icons?i=nestjs,nodejs,express,laravel,livewire,zod,websocket,socketio,swagger) |
+| **Frontend** | ![Frontend](https://skills.syvixor.com/api/icons?i=react,vue,tailwind,bootstrap,html,css,jquery) |
+| **Database & ORM** | ![DB](https://skills.syvixor.com/api/icons?i=postgres,mysql,redis,prisma,typeorm,supabase) |
+| **DevOps & Infra** | ![DevOps](https://skills.syvixor.com/api/icons?i=docker,nginx,haproxy,grafana,git,linux,ubuntu) |
 
 ---
 
