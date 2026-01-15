@@ -1,47 +1,32 @@
 ## 🛠️ My Journey
 
-Hello! I'm **Pakkapon Chomchoey**, a third-year **Software Engineering** student at **Burapha University**, SE#13.  
-* 🌍  Based in Ang Sila, Chonburi, Thailand  
-* ✉️  Contact me at [Pakkapon2547@gmail.com](mailto:Pakkapon2547@gmail.com)  
-* 🎓  Faculty of Informatics, BUU  
-* 🧠  Currently interested in **Full Stack Development** 
+Hello! I'm **Pakkapon Chomchoey** (Tonnam), a **Software Engineer** specializing in **System Architecture** and **Full Stack Development**.
+
+Currently, I'm a third-year **Software Engineering** student at **Burapha University** (SE#13). I combine the discipline of a **Track & Field Athlete** with the technical rigor of a **Backend Engineer** to build scalable and reliable systems.
+
+* 🌍 Based in **Chonburi, Thailand**
+* 🔭 Working on **High Availability Systems** & **Real-time Applications**
+* ✉️ Contact me at [Pakkapon2547@gmail.com](mailto:Pakkapon2547@gmail.com)
+* 🧠 Focus: **Backend Engineering, DevOps, Database Tuning**
+
+---
+
+### 💼 **Featured Experience & Projects**
+
+| Role / Project | Key Achievement | Tech Stack |
+| :--- | :--- | :--- |
+| **Backend Intern @ SAFEALL** | Architected **Bi-directional HA System** (Chaos Tested), Optimized DB (**TimescaleDB/Postgres**) & Built **Real-time Dashboard** (4k+ devices). | `SymmetricDS` `NestJS` `Grafana` `TimescaleDB` `Nginx` `Keepalived` `k6` `Bash` |
+| **Orbis-Track (Team Lead)** <br> *(Current Project)* | Designing **Modular Monolith** backend & Real-time approval workflow for enterprise. | `Expressjs` `Docker` `WebSocket` `React` |
+| **Frontend Intern @ 10BIT** | Developed **Paperless Digital Forms** for healthcare, mirroring legacy UX. | `Vue.js` `Bootstrap` `JavaScript` |
+| **MyMap (Team Lead)** | Led a team of 10 to build a **Geospatial Analytics** system in a 1-week sprint. | `Mapbox GL JS` `Laravel` `Livewire` |
 
 ---
 
 ### 🏆 Awards & Achievements
-- 🥇 **มหาเทพ Full Stack Award** – OSSD#13 Bootcamp (Open Source Software Developers #13 Bootcamp)
+- 🥇 **Best Full Stack Developer Award (มหาเทพ Full Stack)** – OSSD#13 Bootcamp
+  - *Awarded for exceptional performance in End-to-End development (Frontend, Backend, Database).*
 - 🎨 **Best UX/UI Design Award** – Cluster 4
----
-
-### 💼 Work Experience
-
-#### Frontend Developer Intern  
-**10 BIT DEVELOPMENT CO., LTD.**  
-*May 5, 2024 - June 25, 2024*  
-
-- 📝 Designed and developed digital forms for nurses, replacing traditional paper forms with a paperless system.  
-- 🎨 Created visually appealing and user-friendly forms using **Vue.js** and **Bootstrap**, closely matching original templates to enhance user experience.  
-- 💻 Implemented functionality using **HTML**, **JavaScript**, and **CSS**, ensuring interactivity and usability.
-  
-**Tech Stack**: `HTML` · `CSS` · `JavaScript` · `Bootstrap CSS` · `Vue.js`
-
----
-
-### 🔥 Project Highlight
-
-#### Site Selection Analysis System
-Developed by **Cluster 4** with **MyOrder Intelligence, LTD.** during the **OSSD#13 Bootcamp**  
-*Feb 16, 2025 - Apr 12, 2025* 
-
-A web app for analyzing and managing branch locations using interactive maps and data dashboards.
-
-- 🗺️ Interactive Mapbox-based branch markers (add/edit/delete)
-- 🌍 Imported categorized GeoJSON data into SQL database
-- 📍 Modal bottom sheet inspired by Google Maps UI
-- 🎨 Clean, consistent UI design with color and button standards
-- 📊 Sales dashboard with filters, median line charts, and branch order tracking
-
-**Tech Stack**: `Laravel` · `Livewire` · `Mapbox GL JS` · `Tailwind CSS` · `JQuery` · `Docker` 
+- 🏃 **University Athlete** – Competed in the National Inter-University Games (2024 & 2025)
 
 ---
 
