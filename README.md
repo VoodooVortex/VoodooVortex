@@ -16,7 +16,7 @@ Currently, I'm a third-year **Software Engineering** student at **Burapha Univer
 | Role / Project | Key Achievement | Tech Stack |
 | :--- | :--- | :--- |
 | **Backend Intern @ SAFEALL** | Architected **Bi-directional HA System** (Chaos Tested), Optimized DB (**TimescaleDB/Postgres**) & Built **Real-time Dashboard** (4k+ devices). | `SymmetricDS` `NestJS` `Grafana` `TimescaleDB` `Nginx` `Keepalived` `k6` `Bash` `Redis` |
-| **Orbis-Track (Team Lead)** <br> *(Current Project)* | Designing **Modular Monolith** backend & Real-time approval workflow for enterprise. | `Expressjs` `Docker` `WebSocket` `React` `Redis` |
+| **Orbis-Track (Team Lead)** | Designing **Modular Monolith** backend & Real-time approval workflow for enterprise. | `Expressjs` `Docker` `WebSocket` `React` `Redis` |
 | **Frontend Intern @ 10BIT** | Developed **Paperless Digital Forms** for healthcare, mirroring legacy UX. | `Vue.js` `Bootstrap` `JavaScript` |
 | **MyMap (Team Lead)** | Led a team of 10 to build a **Geospatial Analytics** system in a 1-week sprint. | `Mapbox GL JS` `Laravel` `Livewire` |
 
