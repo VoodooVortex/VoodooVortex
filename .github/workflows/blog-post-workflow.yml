@@ -1,0 +1,24 @@
+name: Latest Medium Posts Workflow
+
+on:
+  schedule:
+    # รันอัตโนมัติทุกๆ 1 ชั่วโมง
+    - cron: '0 * * * *'
+  workflow_dispatch: # ปุ่มสำหรับกดสั่งรันเองแบบ Manual ในหน้า Actions
+
+permissions:
+  contents: write # ให้สิทธิ์ Action ในการเขียน/อัปเดตไฟล์ README.md
+
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Pull Medium Posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://medium.com/feed/@pakkapon-chomchoey"
+          max_post_count: 5 # จำนวนบทความสูงสุดที่ต้องการแสดง
