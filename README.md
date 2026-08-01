@@ -72,8 +72,14 @@ From: 06 December 2025 - To: 31 July 2026
 
 Total Time: 534 hrs 46 mins
 
-TypeScript                 256 hrs 28 mins       >>>>>>>>-----------------   32.64 %
-Other                      251 hrs 3 mins        >>>>>>>>-----------------   31.95 %
+TypeScript                 256 hrs 28 mins       ░░░░░░░░█████████████████   32.64 %
+Other                      251 hrs 3 mins        ░░░░░░░░█████████████████   31.95 %
+Markdown                   83 hrs 7 mins         ░░░██████████████████████   10.58 %
+JavaScript                 20 hrs 20 mins        ░████████████████████████   02.59 %
+HTML                       16 hrs 22 mins        ░████████████████████████   02.08 %
+Python                     12 hrs 4 mins         █████████████████████████   01.54 %
+CSS                        11 hrs 13 mins        █████████████████████████   01.43 %
+Image (svg)                11 hrs 11 mins        █████████████████████████   01.42 %
 ```
 
 <!--END_SECTION:waka-->
