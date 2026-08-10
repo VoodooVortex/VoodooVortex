@@ -57,7 +57,7 @@ Currently, I'm a fourth-year **Software Engineering** student at **Burapha Unive
 <!--START_SECTION:waka-->
 
 ```typescript
-From: 06 December 2025 - To: 07 August 2026
+From: 06 December 2025 - To: 08 August 2026
 
 Total Time: 567 hrs 22 mins
 
