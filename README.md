@@ -57,14 +57,14 @@ Currently, I'm a fourth-year **Software Engineering** student at **Burapha Unive
 <!--START_SECTION:waka-->
 
 ```typescript
-From: 06 December 2025 - To: 03 October 2026
+From: 06 December 2025 - To: 04 October 2026
 
-Total Time: 843 hrs 14 mins
+Total Time: 850 hrs 26 mins
 
-TypeScript                 374 hrs 59 mins       ████████░░░░░░░░░░░░░░░░░   32.62 %
-Other                      306 hrs 23 mins       ██████▓░░░░░░░░░░░░░░░░░░   26.65 %
-Markdown                   140 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   12.18 %
-HTML                       52 hrs 58 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 %
+TypeScript                 378 hrs 26 mins       ████████▒░░░░░░░░░░░░░░░░   32.71 %
+Other                      306 hrs 23 mins       ██████▓░░░░░░░░░░░░░░░░░░   26.48 %
+Markdown                   142 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.31 %
+HTML                       53 hrs                █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 %
 ```
 
 <!--END_SECTION:waka-->
